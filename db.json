@@ -1,0 +1,106 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "name": "yunus",
+      "mrp": 123,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "sama",
+      "mrp": 125.5,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.9821534086190995,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.5817873670979763,
+      "available": false
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.6779195073746895,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.5290753167860307,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.31407711422274964,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.653236221447518,
+      "available": false
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.611758942685898,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.084125029337208,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.528323284267467,
+      "available": true
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.3092655551513661,
+      "available": false
+    },
+    {
+      "name": "enter name here...",
+      "mrp": "enter mrp here...",
+      "id": 0.7373168933955534,
+      "available": false
+    },
+    {
+      "name": "sad",
+      "mrp": "enter mrp here...",
+      "id": 0.45915078277402266,
+      "available": false
+    },
+    {
+      "name": "sad",
+      "mrp": "enter mrp here...",
+      "id": 0.33532807850745394,
+      "available": true
+    },
+    {
+      "name": "adad",
+      "mrp": "enter mrp here...",
+      "id": 0.4216749706272471,
+      "available": false
+    },
+    {
+      "name": "nice",
+      "mrp": "enter mrp here...",
+      "id": 0.9989509245319934,
+      "available": true
+    }
+  ]
+}
